@@ -1,4 +1,4 @@
-/out
-/.idea
-/RSA
+out/*
+.idea/*
+RSA/*
 */Start.java
